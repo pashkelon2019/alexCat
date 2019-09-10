@@ -1,0 +1,13 @@
+table {
+    border-collapse: collapse;
+  }
+  
+
+  }
+  th {
+      color: firebrick;
+  }
+
+  .table {
+      white-space: pre;
+  }
