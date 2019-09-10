@@ -11,3 +11,13 @@ table {
   .table {
       white-space: pre;
   }
+  #c {
+    width: 50%
+  }
+
+  @media (max-width: 1028px) {
+
+    #tableid {
+        width: 25%
+      }
+}
