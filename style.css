@@ -31,3 +31,14 @@ table {
 h1{
   padding: 2rem;
 }
+
+#animg {
+  width: 40%;
+}
+
+@media (max-width: 500) {
+
+  #animg {
+    width: 50%;
+  }
+}
