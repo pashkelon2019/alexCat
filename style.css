@@ -21,3 +21,13 @@ table {
         width: 25%
       }
 }
+
+.header {
+  padding: 3rem;  
+  text-align: center;
+  
+}
+
+h1{
+  padding: 2rem;
+}
